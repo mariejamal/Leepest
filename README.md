@@ -1,4 +1,4 @@
-# Loopy-Master
+# Leepest
  Loop Game
 LOOPY RULES
 1. Reach the Flag 10 times
